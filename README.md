@@ -10,4 +10,7 @@ https://www.kali.org/get-kali/#kali-virtual-machines
 Docs
 https://www.kali.org/docs/virtualization/import-premade-virtualbox/
 
-The image stored in this repo has a few minor changes, mainly a change to the keyboard layout (now set to UK).
+Changes to make:
+
+* Set Keyboard to UK - Search 'Keyboard' in the start menu
+* Add BURP to Desktop
